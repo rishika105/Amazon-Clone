@@ -11,12 +11,6 @@ This is a clone of the Amazon.in website created using HTML and CSS only. It aim
 - Shopping Cart: Allows users to add products to their cart and proceed to checkout.
 - Responsive Design: Ensures the website is optimized for various screen sizes.
 
-## Screenshots
-
-![Home Page](/screenshots/home.png)
-![Product Details](/screenshots/product_details.png)
-![Shopping Cart](/screenshots/cart.png)
-
 ## Usage
 
 1. Clone the repository:
