@@ -25,10 +25,6 @@ This is a clone of the Amazon.in website created using HTML and CSS only. It aim
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request. Please ensure that your code follows the existing style and conventions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - This project was inspired by the design and functionality of Amazon.in.
