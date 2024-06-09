@@ -22,7 +22,7 @@ This is a clone of the Amazon.in website created using HTML and CSS only. It aim
    git clone https://github.com/rishika105/amazon-clone.git
    ```
 
-2. Open `amazon.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 ## Contributing
 
