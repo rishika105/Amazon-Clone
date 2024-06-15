@@ -32,4 +32,3 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 - This project was inspired by the design and functionality of Amazon.in.
 - Special thanks to [Amazon](https://www.amazon.in) for providing a reference for this project.
-
